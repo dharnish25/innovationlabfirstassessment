@@ -1,0 +1,24 @@
+
+
+
+
+
+#up{
+    font-size: smaller;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+nav{
+    font-size:15px;
+    color: white;
+    height: 100px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+
+}
+p{
+    font-size: 5px; 
+}
