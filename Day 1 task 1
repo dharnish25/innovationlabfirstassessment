@@ -1,0 +1,14 @@
+var name = "dharnish";
+let age = 18;
+const country = "India";
+
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Country:", country);
+
+
+name = "dharnish";
+age = 19;
+
+console.log("Updated Name:", name);
+console.log("Updated Age:", age);
